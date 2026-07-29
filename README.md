@@ -1,3 +1,4 @@
+<img width="959" height="502" alt="Screenshot 2026-07-29 143112" src="https://github.com/user-attachments/assets/ba3c4786-b85f-4722-be56-c625d0105fb9" />
 # Jarvis - Python Voice Assistant
 
 A Python-based voice assistant that combines speech recognition, text-to-speech, web automation, weather API integration, and a locally running Large Language Model (LLM) through Ollama.
